@@ -2,3 +2,6 @@ welcome to git
  
 
 wecome students
+
+
+welcome conflict
